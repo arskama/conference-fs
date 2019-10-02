@@ -1,0 +1,104 @@
+{
+"name" : "Room 0001",
+ "speeches": [
+     {
+         "name": "speech 01",
+         "speaker": "speaker 001",
+         "topic": "001 speech",
+         "startTime": "08:00",
+         "endTime": "08:30",
+         "keywords": [ 
+             {"keyword": "a"},
+             {"keyword":"b"}
+         ]
+    },
+    {
+         "name": "speech 02",
+         "speaker": "Speaker 002",
+         "topic": "002 speech",
+         "startTime": "09:00",
+         "endTime": "09:30",
+         "keywords": [ 
+             {"keyword": "c"},
+             {"keyword":"d"}
+         ]
+    },
+    {
+         "name": "speech 03",
+         "speaker": "Speaker 003",
+         "topic": "003 speech",
+         "startTime": "10:00",
+         "endTime": "11:00",
+         "keywords": [ 
+             {"keyword": "e"},
+             {"keyword":"f"}
+         ]
+    },
+    {
+         "name": "speech 04",
+         "speaker": "Speaker 004",
+         "topic": "004 speech",
+         "startTime": "11:00",
+         "endTime": "11:30",
+         "keywords": [ 
+             {"keyword": "g"},
+             {"keyword":"h"}
+         ]
+    },
+    {
+         "name": "Lunch",
+         "speaker": "Lunch",
+         "topic": "Lunch",
+         "startTime": "11:30",
+         "endTime": "13:00",
+         "keywords": [ 
+             {"keyword": "i"},
+             {"keyword":"j"}
+         ]
+    },
+    {
+         "name": "speech 05",
+         "speaker": "Speaker 005",
+         "topic": "005 speech",
+         "startTime": "13:00",
+         "endTime": "13:30",
+         "keywords": [ 
+             {"keyword": "k"},
+             {"keyword":"l"}
+         ]
+    },
+    {
+         "name": "speech 06",
+         "speaker": "Speaker 006",
+         "topic": "006 Speech",
+         "startTime": "13:30",
+         "endTime": "14:30",
+         "keywords": [ 
+             {"keyword": "m"},
+             {"keyword":"n"}
+         ]
+    },
+    {
+         "name": "speech 07",
+         "speaker": "Speaker 007",
+         "topic": "007 Speech",
+         "startTime": "14:30",
+         "endTime": "15:30",
+         "keywords": [ 
+             {"keyword": "o"},
+             {"keyword":"p"}
+         ]
+    },
+    {
+         "name": "speech 08",
+         "speaker": "workshop",
+         "topic": "workshop 08",
+         "startTime": "15:30",
+         "endTime": "18:30",
+         "keywords": [ 
+             {"keyword": "q"},
+             {"keyword":"r"}
+         ]
+    }
+ ]
+}
